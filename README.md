@@ -1,2 +1,3 @@
 # cfg_to_cnf
-Haskell script to convert a context-free grammar to Chomsky Normal Form
+## Converting Context-Free Grammars to Chomsky Normal Form
+Haskell script to convert a context-free grammar to Chomsky normal form.
